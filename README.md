@@ -12,4 +12,4 @@
 * `ggplot2` documentation: http://docs.ggplot2.org/current/
 
 Alexa Smith 
-Soemthing else
+Something else
